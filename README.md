@@ -1,13 +1,17 @@
-# 好用的话记得给个 star
+## 好用的话记得给个 star
 
+## word to txt
+#### 其它类型文件自测，可解析的文档格式看antiword官网
+#### antiword website: http://www.winfield.demon.nl/
+    
+    
 ## env:
 #### 系统版本: ubuntu 20.04(LTS)
 #### py版本: python 3.7.6
 
 
 ## Install Applications(安装调用的软件,基本上所有系统都有antiword):
-#### antiword website: http://www.winfield.demon.nl/
-    
+
     sudo apt install antiword
 
 
