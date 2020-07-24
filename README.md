@@ -1,3 +1,5 @@
+# 好用的话记得给个 star
+
 ## env:
 ### os ubuntu 20.04(LTS)
 ### python 3.7.6
