@@ -1,6 +1,6 @@
 ## env:
-os ubuntu 20.04(LTS)
-python 3.7.6
+### os ubuntu 20.04(LTS)
+### python 3.7.6
 
 ## Install Applications(安装调用的软件,基本上所有系统都有antiword):
 ### website url: http://www.winfield.demon.nl/
